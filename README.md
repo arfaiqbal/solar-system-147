@@ -1,2 +1,1 @@
-# solar-system-147
-solar system 
+# PRO-C147-Activity-Reference
